@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#424242</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#212121</color>
+
+    <color name="app_background_color">#757575</color>
+
+    <color name="now_playing_background_color">#000000</color>
+
+    <color name="text_color">#FFFFFF</color>
+
+    <color name="now_playing_imageview_background_color">#FFFFFF</color>
+
+    <color name="main_screen_card_color">#99000000</color>
+
+    <color name="list_item_color">#000000</color>
+
+    <color name="seekbar_progress_color">#FFFFFF</color>
+
+    <color name="seekbar_thumb_color">#9E9E9E</color>
+
+    <color name="seekbar_background_color">#9E9E9E</color>
+</resources>

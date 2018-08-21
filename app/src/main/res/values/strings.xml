@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P4 Musical Structure</string>
+    <string name="samba_de_gafieira">Samba de Gafieira</string>
+    <string name="forro">Forró</string>
+    <string name="sertanejo">Sertanejo</string>
+    <string name="capoeira">Capoeira</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="brazilian_music">Brazilian Music Player</string>
+</resources>
